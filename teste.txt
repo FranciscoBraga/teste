@@ -12,5 +12,4 @@
 
 7️⃣ every: Verifica se todos os elementos de um array satisfazem uma condição específica, retornando true se todos passarem no teste.
 
-
-https://www.
+vou ajudar fiz um branch
