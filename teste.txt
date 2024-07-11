@@ -1,0 +1,16 @@
+1️⃣ map: Transforma cada elemento de um array, retornando um novo array com os resultados.
+
+2️⃣ filter: Filtra elementos de um array com base em uma condição, retornando um novo array com os elementos que passam no teste.
+
+3️⃣ find: Retorna o primeiro elemento de um array que satisfaz uma condição específica.
+
+4️⃣ findIndex: Retorna o índice do primeiro elemento de um array que satisfaz uma condição específica.
+
+5️⃣ fill: Preenche todos os elementos de um array com um valor estático a partir de um índice inicial até um índice final.
+
+6️⃣ some: Verifica se pelo menos um elemento de um array satisfaz uma condição específica, retornando true ou false.
+
+7️⃣ every: Verifica se todos os elementos de um array satisfazem uma condição específica, retornando true se todos passarem no teste.
+
+
+https://www.
